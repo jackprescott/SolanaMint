@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SolanaMint/static/css/main.76598800.chunk.css",
+    "main.js": "/SolanaMint/static/js/main.4794c82b.chunk.js",
+    "main.js.map": "/SolanaMint/static/js/main.4794c82b.chunk.js.map",
+    "runtime-main.js": "/SolanaMint/static/js/runtime-main.b057dd21.js",
+    "runtime-main.js.map": "/SolanaMint/static/js/runtime-main.b057dd21.js.map",
+    "static/js/2.4d9a0430.chunk.js": "/SolanaMint/static/js/2.4d9a0430.chunk.js",
+    "static/js/2.4d9a0430.chunk.js.map": "/SolanaMint/static/js/2.4d9a0430.chunk.js.map",
+    "static/js/3.f6d6bd00.chunk.js": "/SolanaMint/static/js/3.f6d6bd00.chunk.js",
+    "static/js/3.f6d6bd00.chunk.js.map": "/SolanaMint/static/js/3.f6d6bd00.chunk.js.map",
+    "index.html": "/SolanaMint/index.html",
+    "static/css/main.76598800.chunk.css.map": "/SolanaMint/static/css/main.76598800.chunk.css.map",
+    "static/js/2.4d9a0430.chunk.js.LICENSE.txt": "/SolanaMint/static/js/2.4d9a0430.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b057dd21.js",
+    "static/js/2.4d9a0430.chunk.js",
+    "static/css/main.76598800.chunk.css",
+    "static/js/main.4794c82b.chunk.js"
+  ]
+}
